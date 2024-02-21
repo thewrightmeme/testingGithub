@@ -4,5 +4,9 @@ public class Elijah_Wright {
         System.out.println("Hi Elijah");
         System.out.println("Hi Elijah");
         System.out.println("Hi Nick");
+        System.out.println("Hi Elijah");
+        System.out.println("Hi Nick");
+        System.out.println("Hi Anya");
+
     }
 }
